@@ -78,10 +78,9 @@ const Home = () => (
         </Heading>
         <Paragraph>
           Arturo Aragón Hidalgo is a Computer Engineering student based in
-          Calella, Barcelona with a passion for building digital services/stuff
-          he wants. He has a knack for all things launching products, from
-          planning and designing all the way to solving real-life problems with
-          code. Currently, one of his projects is:{' '}
+          Calella, Barcelona with a passion for building digital services/stuff. He has the capacity to do all things related to coding. From launching products to
+          planning and designing all the way; solving real-life problems with
+          code. Some of the languages he has learned are: c, c++, c#, python, java and javascript. Currently, one of his projects is:{' '}
           <NextLink href="https://twitter.com/ThatSpotifyLink">
             <Link>ThatSpotifyLink</Link>
           </NextLink>{' '}
