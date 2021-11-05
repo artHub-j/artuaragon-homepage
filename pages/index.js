@@ -33,7 +33,7 @@ const Home = () => (
       borderStyle="solid"
       borderRadius="20"
       //bgImage="images/wallpaper.jpg"
-      bgColor={useColorModeValue('white', '#0F0F0F')}
+      bgColor={useColorModeValue('whiteAlpha.800', '#0F0F0F')}
     >
       <Box
         display={{ md: 'flex' }}
