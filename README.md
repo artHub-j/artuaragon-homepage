@@ -1,4 +1,4 @@
-# artuaragon-homepage-main
+# <img src="https://github.com/artHub-j/artuaragon-homepage/assets/92806890/09946468-f8b9-4e19-b449-ab5080f574bd" width="30" /> artuaragon-homepage-main
 
 Light Mode             |  Dark Mode
 :-------------------------:|:-------------------------:
